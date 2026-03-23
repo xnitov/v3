@@ -715,3 +715,5 @@ S.game = new Chess();
 render();
 updateStatus();
 initSF();
+
+console.log("what?");
